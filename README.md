@@ -2,7 +2,7 @@
 
 # PS1 Prompt
 
-PS1='\[\e[0m\]\t \[\e[0m\][\[\e[0m\]\h\[\e[0m\]:\[\e[0m\]\w\[\e[0m\]]\n\[\e[0m\>
+PS1='\[\e[0m\]\t \[\e[0m\][\[\e[0m\]\h\[\e[0m\]:\[\e[0m\]\w\[\e[0m\]]\n\[\e[0m\]🦄\[\e[0m\]'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
