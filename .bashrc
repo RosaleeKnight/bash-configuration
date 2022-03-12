@@ -19,12 +19,9 @@ alias c='clear'
 alias cd..='cd ..'
 alias cp='cp -iv'
 alias chmod="chmod -c"
-alias chmod="chmod -c"
 alias df="df -h --exclude=squashfs"
 alias diff='colordiff'
 alias egrep='egrep --colour=auto'
-alias e="vim -O "
-alias E="vim -o "
 alias extip='curl icanhazip.com'
 alias grep='grep --color=auto'
 alias l.=' ls -lhFa --time-style=long-iso --color=auto'
@@ -36,8 +33,6 @@ alias ports='netstat -tulanp'
 alias h='history'
 alias j='jobs -l'
 alias mv='mv -iv'
-alias ssha='eval $(ssh-agent) && ssh-add'
-alias svim='sudo vim'
 alias watch='watch -d'
 alias weather='curl wttr.in'
 alias wget='wget -c'
